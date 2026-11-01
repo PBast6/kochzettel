@@ -3,7 +3,7 @@
     "Debug": "debug",
     "Release": "release"
   },
-  "name": "Project",
+  "name": "Kochzettel",
   "options": {
     "groupSortPosition": "bottom",
     "transitivelyLinkDependencies": false
@@ -16,14 +16,14 @@
       "dependencies": [
         {
           "embed": true,
-          "target": "New Project Watch"
+          "target": "Kochzettel Watch"
         }
       ],
       "deploymentTarget": "26.0",
       "info": {
         "path": "App/Info.plist",
         "properties": {
-          "CFBundleDisplayName": "New Project",
+          "CFBundleDisplayName": "Kochzettel",
           "CFBundleShortVersionString": "1.0",
           "CFBundleVersion": "1",
           "ITSAppUsesNonExemptEncryption": false,
@@ -58,12 +58,12 @@
       ],
       "type": "application"
     },
-    "New Project Watch": {
+    "Kochzettel Watch": {
       "deploymentTarget": "26.0",
       "info": {
         "path": "Watch/Info.plist",
         "properties": {
-          "CFBundleDisplayName": "New Project",
+          "CFBundleDisplayName": "Kochzettel",
           "CFBundleShortVersionString": "1.0",
           "CFBundleVersion": "1",
           "ITSAppUsesNonExemptEncryption": false,
